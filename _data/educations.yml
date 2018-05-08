@@ -1,0 +1,12 @@
+- education:
+  degree: M.S. in Computer Science
+  university: University of Illinois at Urbana-Champaign
+  time: 2016 - 2017
+  advisor: Michael Bailey
+  advisor-link: http://mdbailey.ece.illinois.edu
+  thesis: Measuring Ethereum's Peer-to-Peer Network
+  thesis-link: https://www.ideals.illinois.edu/handle/2142/99409
+- education:
+  degree: B.S. in Computer Science
+  university: University of Illinois at Urbana-Champaign
+  time: 2010 - 2017

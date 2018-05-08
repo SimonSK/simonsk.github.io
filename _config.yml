@@ -1,0 +1,59 @@
+# Site Settings
+title: Simon Kim
+url: 'https://simonsk.github.io'
+baseurl: '' #change it according to your repository name
+about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
+
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+style: styles-6
+
+
+#Profile information
+name: Simon Kim
+tagline: Ph.D. Student, Computer Science
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+about: "I am a first year computer science Ph.D. student at the University of Illinois at Urbana-Champaign.
+        I am advised by Professor <a href=\"http://mdbailey.ece.illinois.edu\">Michael Bailey</a>
+        as a member of the Network and Security Research Group (<a href=\"http://nsrg.sprai.org\">NSRG</a>).
+        My research interests lie in the areas of network security, forensics, and IT infrastructure management."
+
+#I am advised by Michael Bailey as a member of the Network & Security Research Group.
+#
+#My research focuses on 1) the security impact of IoT & ICS devices on the Internet and 2) the complex trust relationships between network entities. I am currently working on understanding and establishing trust as a first-class property in secure networked systems."
+#Simon is a Master's student in Computer Science. His interests include network security, forensics, and IT infrastructure management.
+#Zane is a 2nd-year PhD candidate in CS who is interested in Internet-scale measurement for informing and assessing security practices. Other interests include applied cryptography, formal methods/program verification, and food-related activities.
+#Deepak is a first year computer science PhD student working with Michael Bailey. His research interests lie at the intersection of distributed systems, networks, and computer security
+
+#sidebar links
+office: 445
+building: Coordinated Science Lab
+building-map: https://goo.gl/maps/E3sW3GadWHq
+email: skim104 at illinois dot edu
+#phone: 012 345 6789
+#website: blog.webjeda.com #do not add http://
+#linkedin: alandoe
+github: SimonSK
+#twitter: '@webjeda'
+#Update all the sections by editing the files inside _data folder.
+
+# uncomment the next line, if you want the education section displayed in main instead of the sidebar
+education_in_main: True
+experience: True
+projects: True
+publications: True
+skills: True
+
+# Tracker
+#analytics: UA-83979019-1
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
