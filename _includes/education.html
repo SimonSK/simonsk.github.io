@@ -16,6 +16,11 @@
               <div class="university">{{ education.university }}</div>
             </div><!--//meta-->
             
+            {% if education.expected %}
+            <div class="expected">
+              <p>Expected Graduation Year: <p>{{ education.expected }}</p>
+            </div><!--//advisor-->
+            {% endif %}
             {% if education.advisor %}
             <div class="advisor">
               <p>Advisor: <a href="{{ education.advisor-link }}">{{ education.advisor }}</a></p>
