@@ -5,6 +5,7 @@ publications:
     title: "Measuring Ethereum Network Peers"
     authors: "Seoung Kyun Kim, Zane Ma, Siddharth Murali, Joshua Mason, Andrew Miller, Michael Bailey"
     conference: "ACM Internet Measurement Conference (IMC) 2018"
+    link: "./publications/imc18_ethereum.pdf"
 #  - paper:
 #    title: The Art of Computer Programming
 #    authors: Donald E. Knuth
