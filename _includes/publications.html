@@ -12,10 +12,10 @@
   {% for publication in site.data.publications.publications %}
     <div class="item">
       <div>
-        <div class="publication-title"><a href="{{ publication.link }}">{{ publication.title }}</a></div>
+        <div class="publication-title" style="display: inline"><a href="{{ publication.link }} " target="_blank">{{ publication.title }}</a></div>
         <div class="publication-meta" style="display: inline">
-          [<a href="{{ publication.doi }}">DOI</a>]
-          [<a href="{{ publication.bib }}">BibTex</a>]
+          [<a href="{{ publication.doi }}" target="_blank">DOI</a>]
+          [<a href="{{ publication.bib }}" target="_blank">BibTex</a>]
         </div>
       </div>
       <div class="publication-conference">{{ publication.authors }}</div>
