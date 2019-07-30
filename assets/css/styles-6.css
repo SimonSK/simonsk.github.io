@@ -245,7 +245,14 @@ p {
   font-weight: 500;
   margin-bottom: 1px;
 }
+.main-wrapper .publication-meta {
+  font-size: 10px;
+  margin-bottom: 1px;
+}
 .main-wrapper .publication-authors {
+  margin-bottom: 1px;
+}
+.main-wrapper .publication-conference {
   font-style: italic;
   margin-bottom: 1px;
 }
