@@ -250,9 +250,11 @@ p {
   margin-bottom: 1px;
 }
 .main-wrapper .publication-authors {
+  font-size: 15px;
   margin-bottom: 1px;
 }
 .main-wrapper .publication-conference {
+  font-size: 15px;
   font-style: italic;
   margin-bottom: 1px;
 }
