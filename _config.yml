@@ -16,12 +16,12 @@ style: styles-6
 
 #Profile information
 name: Simon Kim
-tagline: Ph.D. Student, Computer Science
+tagline: Ph.D. Student
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 about: "I am a second-year computer science Ph.D. student at the University of Illinois at Urbana-Champaign.
-        I am advised by Professor <a href=\"http://mdbailey.ece.illinois.edu\">Michael Bailey</a>
-        as a member of the Network and Security Research Group (<a href=\"http://nsrg.sprai.org\">NSRG</a>).
-        My research interests are large-scale network measurement, forensics, and IT infrastructure management."
+        I am advised by Professor <a href=\"http://mdbailey.ece.illinois.edu\" target=\"_blank\">Michael Bailey</a>
+        as a member of the Network and Security Research Group (<a href=\"https://nsrg.sprai.org\" target=\"_blank\">NSRG</a>).
+        My research interests are large-scale network measurement, IT infrastructure management, and site reliability engineering."
 
 #I am advised by Michael Bailey as a member of the Network & Security Research Group.
 #
@@ -34,10 +34,10 @@ about: "I am a second-year computer science Ph.D. student at the University of I
 office: 445
 building: Coordinated Science Lab
 building-map: https://goo.gl/maps/E3sW3GadWHq
-email: skim104 at illinois dot edu
+email: simonsk at outlook dot com
 #phone: 012 345 6789
 #website: blog.webjeda.com #do not add http://
-#linkedin: alandoe
+linkedin: simon-sk-kim
 github: SimonSK
 #twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
