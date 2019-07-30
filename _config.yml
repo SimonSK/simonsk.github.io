@@ -21,7 +21,7 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 about: "I am a second-year computer science Ph.D. student at the University of Illinois at Urbana-Champaign.
         I am advised by Professor <a href=\"http://mdbailey.ece.illinois.edu\" target=\"_blank\">Michael Bailey</a>
         as a member of the Network and Security Research Group (<a href=\"https://nsrg.sprai.org\" target=\"_blank\">NSRG</a>).
-        My research interests are large-scale network measurement, IT infrastructure management, and site reliability engineering."
+        My interests are large-scale network measurement, IT operations, and site reliability engineering."
 
 #I am advised by Michael Bailey as a member of the Network & Security Research Group.
 #
