@@ -19,7 +19,7 @@
        <ul class="list-unstyled contact-list">
 
            {% if site.email %}
-           <li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.email}}">{{site.email}}</a></li>
+           <li class="email"><i class="fa fa-envelope"></i>{{site.email}}</li>
            {% endif %}
 
            {% if site.office %}
@@ -27,7 +27,7 @@
            {% endif %}
 
            {% if site.phone %}
-           <li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}">{{site.phone}}</a></li>
+           <li class="phone"><i class="fa fa-phone"></i>{{site.phone}}</li>
            {% endif %}
 
            {% if site.website %}
