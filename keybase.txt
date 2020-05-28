@@ -1,0 +1,63 @@
+==================================================================
+https://keybase.io/simonsk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://simonsk.github.io
+  * I am simonsk (https://keybase.io/simonsk) on keybase.
+  * I have a public key with fingerprint 751B 7F58 DA4E 74F1 2DDD  707E F478 0D7B E1CF 40EC
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209906f65526b477aa36a6d893c84d2ad739aaca48bc1c641acca79e3205bb8ab80a",
+      "fingerprint": "751b7f58da4e74f12ddd707ef4780d7be1cf40ec",
+      "host": "keybase.io",
+      "key_id": "f4780d7be1cf40ec",
+      "kid": "0116cb7f9f7a4a25fef63e7e0a159a2e619fc36817fec8b670f17653e6f7a016c46e0a",
+      "uid": "380065931ea5ca9fa6c1e795c7f21100",
+      "username": "simonsk"
+    },
+    "service": {
+      "hostname": "simonsk.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1590706739,
+  "expire_in": 157680000,
+  "prev": "076323c0ecd3606c51bf5e903c0c243130a22f3c23590e00181a8d0d50a0295b",
+  "seqno": 38,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUj1rFUEUXU3EGAzaGAJqxAEro8zHzsc+QaKWglgFLfQxH3dehuTtPnf3xcQQ
+rYQUCjapbcS/IViaQgMSwZDCIoUQC1EshIizT1MIVsPcOefcc+6dZ2NDycj498Wx
+5U9vp3cPrH82yd13V+UyMoVbQq1lNAeDA+YdVHV7LjjUQphQnGVYeME5FSaVUmsm
+tHAqY1aljmonWaa11akylliREm2tlhkwirkxShuFNZpCPuQdKHtlyOsoKzkx0nPl
+dAoy9YQ65ySW4FOpsJMGiPUpBhuJs0XVMKI5oyu4GIpYi5f2wN5/8Pu+ibCxReal
+TjXlHrxgIAFrwjNNQZDMWyYUkR6sMkJiT6TgDEQk4MhNBQx89wdyTGEseMYIaG51
+5rWwBGTGrfSUEIwbYAVlrrsQ0VXoFnk1h1amUCwuBAvNXJsg/wIudkI92zd/MvXK
+oi5sMR+fZ+u6V7Uaer3Ua/D3wbT/KrVNyF2cZWQsQFmFIkctEpG2Do10TIclFnEn
+UwgWe6GEdmgQXIoYAeOmDyw0A5LiDqPMxqE5JrCwcSOeQ4ZjydKUEYY1pZ5ZyqIk
+YEwU0cphx7HGNOMGNeHu5QVqMRWN6s4gVyfXdb8EtDK62h9OxkeS0+Nnh/snH936
+eKP+emG793D//x062Hy+ZPTI8f3Kz51kb+J9+mDi287jw8+fHruyOLm5dW7rSxG6
+t6vzJ7ZPdWdeJHtnrrHNmR9rq7uXXz+5ua3erG18OPry1/qlJTf9amPy+tBv
+=RWlj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/simonsk
+
+==================================================================
+
