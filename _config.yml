@@ -16,24 +16,16 @@ style: styles-6
 
 #Profile information
 name: Simon Kim
-tagline: Ph.D. Student
+tagline: "Cybersecurity Researcher\nSystem Administrator"
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-about: "I am a second-year computer science Ph.D. student at the University of Illinois at Urbana-Champaign.
-        I am advised by Professor <a href=\"http://mdbailey.ece.illinois.edu\" target=\"_blank\">Michael Bailey</a>
-        as a member of the Network and Security Research Group (<a href=\"https://nsrg.sprai.org\" target=\"_blank\">NSRG</a>).
-        My interests are large-scale network measurement and IT monitoring & automation."
-
-#I am advised by Michael Bailey as a member of the Network & Security Research Group.
-#
-#My research focuses on 1) the security impact of IoT & ICS devices on the Internet and 2) the complex trust relationships between network entities. I am currently working on understanding and establishing trust as a first-class property in secure networked systems."
-#Simon is a Master's student in Computer Science. His interests include network security, forensics, and IT infrastructure management.
-#Zane is a 2nd-year PhD candidate in CS who is interested in Internet-scale measurement for informing and assessing security practices. Other interests include applied cryptography, formal methods/program verification, and food-related activities.
-#Deepak is a first year computer science PhD student working with Michael Bailey. His research interests lie at the intersection of distributed systems, networks, and computer security
+about: "I am a cybersecurity researcher at the National Renewable Energy Laboratory (<a href=\"https://www.nrel.gov\" target=\"_blank\">NREL</a>).
+        At NREL, I have been primarily contributing to development of the <a href=\"https://www.nrel.gov/security-resilience/cyber-range.html\" target=\"_blank\">ARIES Cyber Range</a>.
+        I studied computer science at the University of Illinois at Urbana-Champaign under the guidance of Professor <a href=\"https://faculty.cc.gatech.edu/~mbailey/\" target=\"_blank\">Michael Bailey</a>.
+        My interests are large-scale network measurement and IT operations & automation."
 
 #sidebar links
-office: 445
-building: Coordinated Science Lab
-building-map: https://goo.gl/maps/E3sW3GadWHq
+building: Energy Systems Integration Facility
+building-map: https://goo.gl/maps/NggbKjc2THW278Rp7
 email: simonsk at outlook dot com
 #phone: 012 345 6789
 #website: blog.webjeda.com #do not add http://
